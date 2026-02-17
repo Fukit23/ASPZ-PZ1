@@ -38,6 +38,35 @@
 
 Коли ви натисните "завершити" воно одразу запусте віртуальну машину. Одразу відкриється віконце:
 
-<img width="702" height="397" alt="image" src="https://github.com/user-attachments/assets/902a37cd-10cb-44b9-8d5c-59199bce20a6" />   Тут треба вибрати перший пункт та дочекатеться завантаження.
+<img width="702" height="397" alt="image" src="https://github.com/user-attachments/assets/902a37cd-10cb-44b9-8d5c-59199bce20a6" />
+
+Тут треба вибрати перший пункт та дочекатеться завантаження.
+
+Після цього відкриється вікно вибору мови, краще вибрати англійску бо воно може потім жалітися якщо щось інше обрати.
+
+<img width="1207" height="547" alt="image" src="https://github.com/user-attachments/assets/1b87c6c5-5199-4e61-9649-63b80cf20ec7" />
+
+В наступному вікні ми нічого не чіпаємо та ідемо далі:
+
+<img width="1245" height="780" alt="image" src="https://github.com/user-attachments/assets/2ca1953c-612f-4588-aaad-e5089270a805" />
+
+Тут можна перевірити підключення:
+
+<img width="1271" height="782" alt="image" src="https://github.com/user-attachments/assets/c77786e0-381b-4914-ad2a-d224cf60320d" />
+
+Якщо вам треба налаштовувати проксі сервер то тут можна його налаштувати:
+
+<img width="1266" height="784" alt="image" src="https://github.com/user-attachments/assets/2c7403e3-908f-4732-93d6-b66a6257f69d" />
+
+Далі воно підключется до сервера завантажування який вам краще всього підійде:
+
+
+
+
+
+
+
+
+
 
 
