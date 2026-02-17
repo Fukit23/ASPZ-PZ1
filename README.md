@@ -72,7 +72,7 @@
 
 <img width="1203" height="640" alt="image" src="https://github.com/user-attachments/assets/812e67f2-4fbc-49e2-ac12-ae47d343f53b" />
 
-> [!Обов'язково]
+> [!WARNING]
 > Запишіть десь дані вашого профілю щоб не забути їх
 
 
