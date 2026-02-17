@@ -1,5 +1,5 @@
 # Практична робота №1
 В цій інструкції буде показано як правильно завантажити ubuntu на віртуальну машину.
 # Завантаження
-Є дві програми для використання віртуальних машин: Oracle VM VirtualBox(безкоштовна) та VMware Workstation Pro(треба платити).
-'Для завантаження Oracle VM VirtualBox треба перейти на офіційний сайт https://www.virtualbox.org/'
+Є дві програми для використання віртуальних машин: Oracle VM VirtualBox(безкоштовна) та VMware Workstation Pro(треба платити). 
+Для завантаження Oracle VM VirtualBox треба перейти на офіційний [сайт](https://www.virtualbox.org/)
