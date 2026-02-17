@@ -32,6 +32,9 @@
 
 <img width="427" height="420" alt="image" src="https://github.com/user-attachments/assets/de567fcd-ac46-49ec-b256-37d65b8f3ac5" /> <img width="423" height="419" alt="image" src="https://github.com/user-attachments/assets/0e79e974-b74c-42cb-9110-6df0b47158fd" />
 
+Потім воно покаже налаштування з якими воно буде завантажувати систему, там же можна змінити. Можете налаштувати це самі під свій пк але краще використовувати ці налаштуванні, їх вистачить з головою:
+
+<img width="383" height="152" alt="image" src="https://github.com/user-attachments/assets/7e5f8dc7-71b5-4992-a873-7a346c6c046c" />
 
 
 
