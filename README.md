@@ -60,9 +60,20 @@
 
 Далі воно підключется до сервера завантажування який вам краще всього підійде:
 
+<img width="1232" height="776" alt="image" src="https://github.com/user-attachments/assets/f191e8fa-1bd9-42e4-af49-d85d0d070f03" />
 
+Тут нічого не змінюємо:
 
+<img width="1253" height="778" alt="image" src="https://github.com/user-attachments/assets/5a5ca833-9aa0-4e81-b88a-5aa502eb02f7" />
 
+Далі можна подивитися конфігурацію, та якщо що - змінити. Якщо при натисненні "далі" воно буде на щось жалітися - пропускайте, нічого страшного не буде.
+
+Потім треба буде зробити профіль 
+
+<img width="1203" height="640" alt="image" src="https://github.com/user-attachments/assets/812e67f2-4fbc-49e2-ac12-ae47d343f53b" />
+
+> [!Обов'язково]
+> Запишіть десь дані вашого профілю щоб не забути їх
 
 
 
