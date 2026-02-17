@@ -17,4 +17,22 @@
 Налаштування буде показано на прикладі VMware Workstation Pro, для Oracle VM VirtualBox треба обирати аналогічні налаштування.
 
 Після запуску треба обрати: File > New Virtual Machine
+
 <img width="278" height="52" alt="image" src="https://github.com/user-attachments/assets/1e49fd76-c13a-494e-ad29-d9455d57db7b" />
+
+В відкритому вікні обрати рекомендовану конфігурацію
+
+<img width="421" height="424" alt="image" src="https://github.com/user-attachments/assets/4be5d365-0352-4272-a782-ba3a7e6d6694" />
+
+Далі обрати ico файл для Ubuntu server який ми завантажували раніше
+
+<img width="422" height="421" alt="image" src="https://github.com/user-attachments/assets/39ad6d96-7c3d-45bc-bb97-abb552b6726d" />
+
+Після цього обрати місце зберігання та кількість виділеного місця
+
+<img width="427" height="420" alt="image" src="https://github.com/user-attachments/assets/de567fcd-ac46-49ec-b256-37d65b8f3ac5" /> <img width="423" height="419" alt="image" src="https://github.com/user-attachments/assets/0e79e974-b74c-42cb-9110-6df0b47158fd" />
+
+
+
+
+
