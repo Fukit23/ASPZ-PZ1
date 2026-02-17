@@ -36,6 +36,8 @@
 
 <img width="383" height="152" alt="image" src="https://github.com/user-attachments/assets/7e5f8dc7-71b5-4992-a873-7a346c6c046c" />
 
+Коли ви натисните "завершити" воно одразу запусте віртуальну машину. Одразу відкриється віконце:
 
+<img width="702" height="397" alt="image" src="https://github.com/user-attachments/assets/902a37cd-10cb-44b9-8d5c-59199bce20a6" />   Тут треба вибрати перший пункт та дочекатеться завантаження.
 
 
