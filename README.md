@@ -98,5 +98,14 @@
 >sudo ubuntu-drivers autoinstall
 >sudo reboot
 
+## Встановлення інструментів для програмування
+Базовий набір
+>sudo apt install build-essential git -y
+
+Набір включає:
+* gcc, g++ — компілятори
+* make
+* git
+
 
 
