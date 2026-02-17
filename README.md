@@ -87,5 +87,13 @@
 
 Після цього треба дочекатися завантаження.
 
+##Початкове налаштування системи
+Відкрити термінал (Ctrl + Alt + T) та виконати:
+>sudo apt update && sudo apt upgrade -y
+
+Встановити драйвери:
+>sudo ubuntu-drivers autoinstall
+>sudo reboot
+
 
 
